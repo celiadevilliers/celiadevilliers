@@ -1,0 +1,149 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Celia de Villiers",
+    "description": "",
+    "home_page_url": "https://celiadevilliers.github.io",
+    "feed_url": "https://celiadevilliers.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://celiadevilliers.github.io/ponte-darte/",
+            "url": "https://celiadevilliers.github.io/ponte-darte/",
+            "title": "Ponte d&#x27;Arte",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T22:10:28+02:00",
+            "date_modified": "2019-10-23T22:12:05+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/underwater/",
+            "url": "https://celiadevilliers.github.io/underwater/",
+            "title": "Underwater",
+            "image": "https://celiadevilliers.github.io/media/posts/47/celia-de-villiers__36.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T21:03:58+02:00",
+            "date_modified": "2019-10-23T22:10:55+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/transmania/",
+            "url": "https://celiadevilliers.github.io/transmania/",
+            "title": "Transmania",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_6.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_6-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_7.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_7-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_8.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_9.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_9-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_10.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_10-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_11.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_11-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_12.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_12-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_13.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_13-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_14.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_14-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_15.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_15-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_16.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_16-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_17.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_17-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_18.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_18-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_19.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_19-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_20.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/46/gallery/celia-de-villiers_20-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div>",
+            "image": "https://celiadevilliers.github.io/media/posts/46/celia-de-villiers_20.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T21:00:38+02:00",
+            "date_modified": "2019-10-23T21:06:51+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/coat-for-a-shaman/",
+            "url": "https://celiadevilliers.github.io/coat-for-a-shaman/",
+            "title": "Coat for a Shaman",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__29.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__29-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__30.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__30-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__31.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__31-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__32.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__32-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__33.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__33-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__34.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__34-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__35.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/45/gallery/celia-de-villiers__35-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div>",
+            "image": "https://celiadevilliers.github.io/media/posts/45/celia-de-villiers__29.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T20:56:53+02:00",
+            "date_modified": "2019-10-23T20:56:53+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/the-wolf/",
+            "url": "https://celiadevilliers.github.io/the-wolf/",
+            "title": "The Wolf",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/44/gallery/celia-de-villiers_.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/44/gallery/celia-de-villiers_-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/44/gallery/celia-de-villiers_2.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/44/gallery/celia-de-villiers_2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://celiadevilliers.github.io/media/posts/44/gallery/celia-de-villiers_4.jpg\" ><img src=\"https://celiadevilliers.github.io/media/posts/44/gallery/celia-de-villiers_4-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div>",
+            "image": "https://celiadevilliers.github.io/media/posts/44/celia-de-villiers__3.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T20:51:21+02:00",
+            "date_modified": "2019-10-23T20:51:53+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/after-the-fire/",
+            "url": "https://celiadevilliers.github.io/after-the-fire/",
+            "title": "After the fire",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T00:14:59+02:00",
+            "date_modified": "2019-10-23T00:14:59+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/artists/",
+            "url": "https://celiadevilliers.github.io/artists/",
+            "title": "Artists",
+            "summary": "As educator and mentor, Celia De Villiers has been associated with the&hellip;",
+            "content_html": "As educator and mentor, Celia De Villiers has been associated with the careers of a number of South African artists.  She would like to give credit to their work and lives by mentioning them here.",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T00:13:42+02:00",
+            "date_modified": "2019-10-23T22:11:26+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/intuthuko/",
+            "url": "https://celiadevilliers.github.io/intuthuko/",
+            "title": "Intuthuko",
+            "summary": " ",
+            "content_html": "<p><img src=\"https://celiadevilliers.github.io/media/posts/41/community-projects-celia-de-villiers-2.jpg\" alt=\"\" width=\"800\" height=\"600\"></p>\n<p><img src=\"https://celiadevilliers.github.io/media/posts/41/community-projects-celia-de-villiers-3.jpg\" alt=\"\" width=\"800\" height=\"600\"><img src=\"https://celiadevilliers.github.io/media/posts/41/community-projects-celia-de-villiers-4.jpg\" alt=\"\" width=\"800\" height=\"600\"><img src=\"https://celiadevilliers.github.io/media/posts/41/community-projects-celia-de-villiers-5.jpg\" alt=\"\" width=\"800\" height=\"600\"><img src=\"https://celiadevilliers.github.io/media/posts/41/community-projects-celia-de-villiers-6.jpg\" alt=\"\" width=\"800\" height=\"600\"></p>",
+            "image": "https://celiadevilliers.github.io/media/posts/41/community-projects-celia-de-villiers-4.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T00:08:48+02:00",
+            "date_modified": "2019-10-23T00:11:28+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/the-waste-art-foundation/",
+            "url": "https://celiadevilliers.github.io/the-waste-art-foundation/",
+            "title": "The Waste Art Foundation",
+            "content_html": "<img src=\"https://celiadevilliers.github.io/media/posts/40/community-projects-celia-de-villiers-.jpg\" alt=\"\" width=\"800\" height=\"600\">",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-23T00:07:43+02:00",
+            "date_modified": "2019-10-23T21:07:21+02:00"
+        },
+        {
+            "id": "https://celiadevilliers.github.io/celia-de-villiers/",
+            "url": "https://celiadevilliers.github.io/celia-de-villiers/",
+            "title": "Artist&#x27;s Profile",
+            "summary": "Celia de Villiers has three tertiary qualifications, including a MA in Visual&hellip;",
+            "content_html": "<p id=\"mcetoc_1dkb61pgh0\">Celia de Villiers has three tertiary qualifications, including a MA in Visual Arts (cum laude). A fellow of the the Sacatar foundation of California, she has also been credited by the World Craft Council, and endorsed by UNESCO. She has exhibited, curated and adjudicated extensively in South Africa and abroad, as well as presented and published academic articles in South Africa, the United States, Brazil, Romania, Belgium and France.</p>\n<p>Her two and three-dimensional artworks in various media are held in corporate, museum and private collections such as the Raiffeisen Bank, Germany, Landesbank, Germany, Le Tousserok Sun International Hotel, Mauritius, UNISA, EnviroServ and the Development Bank, South Africa, Michigan State University, and the Museum of Art and Design, New York.</p>\n<p>The artist has facilitated and consulted for community outreach and social art initiatives for eighteen years, and won government awards for job creation in the arts and crafts sector in South Africa. She has served on the board of the UNISA gallery, the EnviroServ WasteArt Foundation, the SA government department of Arts and Culture, and the SA Bureau of Standards for Craft.</p>\n<p>De Villiers has lectured in Drawing, Painting, Sculpture, Conceptualisation and Art theory from first to postgraduate level at the University of South Africa, The Design School of South Africa and the University of Pretoria between 2001 to 2018, as well as presenting workshops internationally.</p>\n<p>She relocated from South Africa to Europe in 2015, where she spends her time between Belgium and Portugal. Most recently she has been a guest lecturer at the Royal Academy of Art in Antwerp (2015 -2018), engaged in a European Union funded project between universities in Dublin, Ireland, Turku, Finland and Zagreb, Croatia (2016 - 2018).</p>\n<p>She is a co-director of <a href=\"https://pontedarte.org\" target=\"_blank\" rel=\"noopener noreferrer\">Ponte d’ Arte</a>, an Artistic Hub and Residency near Coimbra, Portugal, whilst remaining a passionate crafter and artist.</p>\n<p>Celia joins Kris as artist mentor on his popular <a href=\"https://pontedarte.org/masterclasses\" target=\"_blank\" rel=\"noopener noreferrer\">In Situ3 Master Classes</a><strong>.</strong></p>",
+            "image": "https://celiadevilliers.github.io/media/posts/28/celia.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-09T15:59:39+02:00",
+            "date_modified": "2019-10-23T22:15:07+02:00"
+        }
+    ]
+}
